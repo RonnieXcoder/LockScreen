@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "LockScreen (Package)": {
+      "commandName": "MsixPackage"
+    },
+    "LockScreen (Unpackaged)": {
+      "commandName": "Project"
+    }
+  }
+}
