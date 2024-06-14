@@ -32,14 +32,12 @@ using System.Drawing;
 using Microsoft.UI.Input;
 using Windows.UI.Core.Preview;
 
-// To learn more about WinUI, the WinUI project structure,
-// and more about our project templates, see: http://aka.ms/winui-project-info.
+// If you enjoy this project, you can support it by making a donation!
+// Donation link: https://buymeacoffee.com/_ronniexcoder
 
 namespace LockScreen
 {
-    /// <summary>
-    /// An empty window that can be used on its own or navigated to within a Frame.
-    /// </summary>
+ 
     public sealed partial class MainWindow : Window
     {
         private bool WindowHandled = false;
@@ -220,7 +218,8 @@ namespace LockScreen
             args.Handled = WindowHandled;
         }
 
-
+        // If you enjoy this project, you can support it by making a donation!
+        // Donation link: https://buymeacoffee.com/_ronniexcoder
 
 
     }
